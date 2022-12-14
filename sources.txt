@@ -1,0 +1,12 @@
+Cite Sources
+
+(0) https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data
+
+(1) https://atavory.github.io/ibex/_modules/sklearn/ensemble/gradient_boosting.html
+# skleanr page onGradBoostRegress is wrong w respect to loss fucntion names 
+
+(2) https://dhirajkumarblog.medium.com/top-5-advantages-and-disadvantages-of-decision-tree-algorithm-428ebd199d9a
+
+(3) SKLEARN https://scikit-learn.org/stable/modules/classes.html#module-sklearn.ensemble
+
+(4) IMPUTATION https://github.com/iskandr/fancyimpute
