@@ -1,5 +1,8 @@
 # Housing-Price-Regression
-A Kaggle competition in which to the target variable is the price of a property. Using various ML Regression algorithms and hyper parameter tuning, the model reaches 92.0% accuracy. 
+A Kaggle competition in which the target variable is the price of a property. Using various ML Regression algorithms and hyper parameter tuning, the model reaches 
+
+TEST r^2   :  0.8627650151032377  (+/-)  0.03177514650060931
+TRAIN r^2   :  0.9287125141339809  (+/-)  0.007598335453055675
 
 
 Directory Layout 

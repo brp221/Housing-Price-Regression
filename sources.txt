@@ -10,3 +10,10 @@ Cite Sources
 (3) SKLEARN https://scikit-learn.org/stable/modules/classes.html#module-sklearn.ensemble
 
 (4) IMPUTATION https://github.com/iskandr/fancyimpute
+
+(5) GRAD BOOST https://towardsdatascience.com/understanding-gradient-boosting-machines-9be756fe76ab
+               https://www.kaggle.com/code/carlmcbrideellis/an-introduction-to-xgboost-regression/comments
+
+(6) Model Eval : https://scikit-learn.org/stable/modules/model_evaluation.html#scoring-parameter
+                 https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.cross_validate.html#sklearn.model_selection.cross_validate
+                 https://atavory.github.io/ibex/_modules/sklearn/ensemble/gradient_boosting.html
