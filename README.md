@@ -1,9 +1,7 @@
 # Housing-Price-Regression
-A Kaggle competition in which the target variable is the price of a property. Using various ML Regression algorithms and hyper parameter tuning, the model reaches 
+A Kaggle competition in which the target variable is the price of a property. Using various ML Regression algorithms and hyper parameter tuning, an optimal Gradient Boosting Model is created
 
-TEST r^2   :  0.8627650151032377  (+/-)  0.03177514650060931
-TRAIN r^2   :  0.9287125141339809  (+/-)  0.007598335453055675
-
+Medium Link : https://medium.com/@p99bratislav/regression-models-on-kaggles-house-pricing-competition-309286702b09
 
 Directory Layout 
 
